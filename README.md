@@ -1,4 +1,4 @@
-# E-commerce Marketplace App
+# Gift E-commerce App
 
 Technologies:
 - Next.js
